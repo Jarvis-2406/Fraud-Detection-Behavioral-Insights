@@ -26,7 +26,6 @@ This project presents an **interactive Power BI dashboard** built to analyze **f
 | **3. Transaction Type Risk Profile** | Identify the riskiest transaction types by fraud count & percentage |
 | **4. Fraudster Behavior** | Analyze origin and destination accounts involved in fraud |
 | **5. Fraud Typology Analysis** | Breakdown of fraud types and their characteristics |
-| **6. (Optional) Balance Behavior Analysis** | Scatter and box plots for suspicious balance changes |
 
 ---
 
